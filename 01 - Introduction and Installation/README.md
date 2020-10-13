@@ -23,20 +23,23 @@ You can download it from [here](https://www.anaconda.com/products/individual#Dow
 Once you are done with installing anaconda, the next step is to create a virtual environment for you project.
 To setup a virtual environment (lets name it "myenv")
 ```
-#this will create environment at location path/to/anaconda3/envs/ with specific version of python
+# this will create environment at location path/to/anaconda3/envs/ with specific version of python
 conda create --name myenv myenv python=3.7
 ```
 To activate enter command `activate myenv` and `deactivate` to simply return to base environment or exit the terminal.
 
 some useful commands in anaconda are:
 ```
-#display lists of environments
+# display lists of environments
 conda info --envs
-#install pip in anaconda, pip is useful for installing python packages
+
+# install pip in anaconda, pip is useful for installing python packages
 conda install pip
-#for example to install opencv
+
+# for example to install opencv
 pip install opencv-python
-#To run jupyter notebook from anaconda enter following command in your project directory
+
+# To run jupyter notebook from anaconda enter following command in your project directory
 jupyter notebook
 ```
 # Working remotely
@@ -50,6 +53,5 @@ Go to https://colab.research.google.com/ and create a new notebook
 Now, to confirm your installation you can run a "Hello World" program on any of these setups.
 ```
 print("Hello World")
-#Output = Hellow World
+# Outputs Hello World
 ```
-````
