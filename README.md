@@ -9,13 +9,13 @@ There are two popular versions of the Python programming language in use today: 
 Since Python 3 is the future, in this tutorial extensively we will be using it exclusively.
 
 # Table of Contents
-- Introduction and installation
-- Variables, statements and expressions
-- Conditional execution
-- Loops and Iterations
-- Functions
+- [Introduction and installation](../main/01%20-%20Introduction%20and%20Installation/)
+- [Variables and Operators](../main/02%20-%20Variables%20and%20Operators/Variables%20and%20Operators%20.ipynb)
+- [Conditional execution](../main/03%20-%20Conditional%20exection/Conditional%20executions.ipynb)
+- [Loops](../main/04%20-%20Loops/Loops.ipynb)
+- [Functions](../main/05%20-%20Functions/Functions.ipynb)
 - File processing
-- Lists
+- [Lists](../main/07%20-%20Lists/Lists.ipynb)
 - Dictionaries
 - Sets
 - Tuples
