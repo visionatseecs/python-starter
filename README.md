@@ -10,7 +10,7 @@ Since Python 3 is the future, in this tutorial extensively we will be using it e
 
 # Table of Contents
 - [Introduction and installation](../main/01%20-%20Introduction%20and%20Installation/)
-- [Variables and Operators](../main/02%20-%20Variables%20and%20Operators/Variables%20and%20Operators%20.ipynb)
+- [Variables and Operators](../main/02%20-%20Variables%20and%20Operators/Variables%20and%20Operators.ipynb)
 - [Conditional execution](../main/03%20-%20Conditional%20exection/Conditional%20executions.ipynb)
 - [Loops](../main/04%20-%20Loops/Loops.ipynb)
 - [Functions](../main/05%20-%20Functions/Functions.ipynb)
