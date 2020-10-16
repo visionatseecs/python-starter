@@ -16,7 +16,7 @@ Since Python 3 is the future, in this tutorial extensively we will be using it e
 - [Functions](../main/05%20-%20Functions/Functions.ipynb)
 - File processing
 - [Lists](../main/07%20-%20Lists/Lists.ipynb)
-- Dictionaries
+- [Dictionaries](../main/08%20-%20Dictionaries/Dictionaries.ipynb)
 - Sets
 - Tuples
 - Classes
